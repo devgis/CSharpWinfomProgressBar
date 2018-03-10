@@ -1,0 +1,10 @@
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.frmProcessBar.resources
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Documents and Settings\liyafei\桌面\ProgressBar\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
